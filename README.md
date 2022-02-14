@@ -48,7 +48,7 @@ https://docs.docker.com/engine/install/ubuntu/
 1: Clone repo to local env
 
 ```sh
-git clone git@github.com:mula-dm/aws_demo.git
+git clone git@github.com:mula-dm/beanstalk_demo.git
 ```
 
 2: Before starting, we need to create AWS S3 bucket fot terraform tfstate with some unique bucket name 
